@@ -1,0 +1,21 @@
+header {
+  font-size: 40px;
+  color: green;
+}
+
+body {
+  font-size: 30px;
+}
+
+body div {
+  font-size: 10px;
+  color: blue;
+}
+
+body div .car {
+  font-size: 10px;
+}
+
+.block {
+  color: firebrick;
+}

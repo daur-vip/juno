@@ -1,0 +1,16 @@
+@import "_header";
+
+body {
+    font-size: 30px;
+    div {
+        font-size: 10px;
+        color: blue;
+        .car {
+            font-size: 10px;
+        }
+    }
+}
+
+.block {
+    color: firebrick;
+}
